@@ -6,15 +6,23 @@
 
 ![](https://komarev.com/ghpvc/?username=suetamkaytam&color=006bed)
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    
 ## Sobre Mim
 
 - 🤔 Explorando soluções de software.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 - 💼 Trabalhando como Analista De Suporte Júnior na SaaSTec.
 - 🌱 Aprendendo mais sobre aplicações web e automações.
+
+## Estatísticas
+
+<div style="display: flex; align-items: flex-start;">
+    <a href="https://github.com/suetamkaytam">
+      <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=suetamkaytam&theme=dark&show_icons=true&count_private=true&locale=pt-br" />
+    </a>
+    <a href="https://github.com/suetamkaytam">
+      <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suetamkaytam&theme=dark&show_icons=true&locale=pt-br"/>
+    </a>
+</div>
 
 ## Minhas Skills
 
@@ -43,11 +51,3 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
-
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github.com/suetamkaytam">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suetamkaytam&theme=dark&show_icons=true&count_private=true&locale=pt-br" />
-    </a>
-  </div>
-</div>
