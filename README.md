@@ -17,10 +17,10 @@
 
 <div style="display: flex; align-items: flex-start;">
     <a href="https://github.com/suetamkaytam">
-      <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=suetamkaytam&theme=dark&show_icons=true&count_private=true&locale=pt-br" />
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=suetamkaytam&theme=dark&show_icons=true&count_private=true&locale=pt-br" />
     </a>
     <a href="https://github.com/suetamkaytam">
-      <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suetamkaytam&theme=dark&show_icons=true&locale=pt-br"/>
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suetamkaytam&theme=dark&show_icons=true&locale=pt-br"/>
     </a>
 </div>
 
