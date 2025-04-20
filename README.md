@@ -1,53 +1,76 @@
+---
+<div align="center">
+
+# 👋 Bem-vindo ao meu GitHub!
+
 [![LinkedIn](https://img.shields.io/badge/-Mateus%20Matyak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-matyak/)](https://www.linkedin.com/in/mateus-matyak/)
 [![E-mail](https://img.shields.io/badge/-mateusmatyak%40outlook.com.br-006bed?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:mateusmatyak@outlook.com.br)](mailto:mateusmatyak@outlook.com.br)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=41984830131)](https://api.whatsapp.com/send?phone=41984830131)
 
-# Bem-vindo ao Meu Perfil no GitHub! 👋
+![Visitas](https://komarev.com/ghpvc/?username=suetamkaytam&color=006bed)
 
-![](https://komarev.com/ghpvc/?username=suetamkaytam&color=006bed)
-
-## Sobre Mim
-
-- 🤔 Explorando soluções de software.
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-- 💼 Trabalhando como Analista De Suporte Júnior na SaaSTec.
-- 🌱 Aprendendo mais sobre aplicações web e automações.
-
-## Estatísticas
-
-<div style="display: flex; align-items: flex-start;">
-    <a href="https://github.com/suetamkaytam">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=suetamkaytam&theme=dark&show_icons=true&count_private=true&locale=pt-br" />
-    </a>
-    <a href="https://github.com/suetamkaytam">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suetamkaytam&theme=dark&show_icons=true&locale=pt-br"/>
-    </a>
 </div>
 
-## Minhas Skills
+---
 
-### Aplicações e Dados
+## 🚀 Sobre Mim
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396&label=Iniciante)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396&label=Intermediário)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&label=Iniciante)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&label=Iniciante)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&label=Iniciante)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&label=Intermediário)
-![VueJS](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&label=Intermediário)
+Sou apaixonado por tecnologia e soluções que otimizam o dia a dia. Atualmente focado em **automação de processos**, utilizando **Python** no backend e **Vue.js** no frontend, além de banco de dados com **PostgreSQL**.
 
-### Utilidades
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
+- 💼 Analista de Suporte Júnior na SaaSTec  
+- 🛠️ Stack atual: Python, VueJS, PostgreSQL  
+- 🌐 Estudando mais sobre automações, APIs, e boas práticas de versionamento
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&label=Aprendendo)
+---
 
-### DevOps
+## 🧰 Tecnologias & Ferramentas
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&label=Intermediário)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&label=Intermediário)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&label=Aprendendo)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins&label=Aprendendo)
+### ⚙️ Back-end & Scripts
+![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas de Desenvolvimento
+### 🌐 Front-end
+![VueJS](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
+### 🔧 DevOps & Versionamento
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🛠️ Ferramentas
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suetamkaytam&show_icons=true&theme=github_dark&count_private=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suetamkaytam&layout=compact&theme=github_dark&locale=pt-br" />
+</div>
+
+---
+
+## 📌 Áreas de Interesse
+
+- Automatização de tarefas e processos manuais  
+- Integrações com APIs RESTful  
+- Interfaces modernas e responsivas com VueJS  
+- Aplicações desktop com Python + PySide6  
+- Documentação e boas práticas com Git
+
+---
+
+> Sinta-se à vontade para explorar meus repositórios, deixar sugestões ou entrar em contato para conversar sobre projetos e soluções!
+
+<p align="center">
+  🔍 Sempre buscando novas soluções e aprendizados!
+</p>
+
+---
