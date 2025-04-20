@@ -18,9 +18,8 @@
 Sou apaixonado por tecnologia e soluções que otimizam o dia a dia. Atualmente focado em **automação de processos**, utilizando **Python** no backend e **Vue.js** no frontend, além de banco de dados com **PostgreSQL**.
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 💼 Analista de Suporte Júnior na SaaSTec  
 - 🛠️ Stack atual: Python, VueJS, PostgreSQL  
-- 🌐 Estudando mais sobre automações, APIs, e boas práticas de versionamento
+- 🌐 Estudando mais sobre automações
 
 ---
 
@@ -44,7 +43,6 @@ Sou apaixonado por tecnologia e soluções que otimizam o dia a dia. Atualmente 
 ### 🛠️ Ferramentas
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
